@@ -2,7 +2,7 @@
 
 ## Provide a tentative title for the work.
 
-TODO: Titles are the most fun
+The Pet Rock's Adventure
 
 ## Description
 
@@ -20,4 +20,6 @@ TODO: Identify at least 3 questions to pose to an in-class peer.
 
 ## Persisting challenges
 
-TODO: Highlight challenges which continue to hamper progress.
+The largest challenge I had during the project with the inconsistencies of the two different image generators. Especially being specific with ImageFX, getting specific generated images is very difficult with it. I often had to adapt the narrative to what was generated without being asked for.
+
+Another problem I had with this project was the difference in image sizes. I also decided to adapt to the sizing changes to the last group of images I decided on.
