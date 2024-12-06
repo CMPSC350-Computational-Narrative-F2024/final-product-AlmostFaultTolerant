@@ -2,7 +2,7 @@
 
 ## Final title
 
-TODO: Provide the final title
+The Pet Rock's Adventures
 
 ## Summary
 
