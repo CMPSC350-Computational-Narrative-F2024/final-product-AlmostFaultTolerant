@@ -6,14 +6,13 @@ The Pet Rock's Adventure
 
 ## Description
 
-TODO: Provide a 3-5 sentence description of your progress to this point. What has been
-difficult? What has been enjoyable? Has your concept changed or shifted in any meaningful way?
-I've decided to use ImageFX by Google instead of Llama to mix up the project more beyond what was already done in previous classwork. 
+I've made some serious progress in my project, coming up with around 10 images that I think I'll use in my final project. There's been some serious accuracy problems with ImageFX, but its enjoyable trying to find ways to work around the limited prompting techniques that work on it. The only change I've made is to use ImageFX for more variety and to set it apart from other projects we've done.
 
 ## Peer Feedback
 
-TODO: Identify at least 3 questions to pose to an in-class peer. 
-
+What prompting techniques did you use to get these results?
+What unexpected problems have popped up in the meantime? 
+What have you learned from doing this project
 ### Unstructured peer feedback
 
 
