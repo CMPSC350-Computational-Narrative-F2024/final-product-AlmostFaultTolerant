@@ -8,6 +8,7 @@ TODO: Titles are the most fun
 
 TODO: Provide a 3-5 sentence description of your progress to this point. What has been
 difficult? What has been enjoyable? Has your concept changed or shifted in any meaningful way?
+I've decided to use ImageFX by Google instead of Llama to mix up the project more beyond what was already done in previous classwork. 
 
 ## Peer Feedback
 
@@ -15,8 +16,7 @@ TODO: Identify at least 3 questions to pose to an in-class peer.
 
 ### Unstructured peer feedback
 
-TODO: Dedicate this space to a summative comment from a peer. This may require you to share
-this repository (briefly) with this person for them to replace this paragraph with the comment.
+
 
 ## Persisting challenges
 
