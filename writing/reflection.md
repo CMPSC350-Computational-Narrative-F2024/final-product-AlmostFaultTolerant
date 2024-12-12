@@ -27,10 +27,6 @@ The limitations of ImageFX was by far my biggest challenge in the project. It's 
 
 ## The role of feedback
 
-TODO: Describe how the feedback from peers shaped your work. This can incorporate feedback
-from earlier assignments or solely from this one. Cite at least two (2) examples, though
-more are always more helpful.
-
 1) I was advised during project 2 to be more formal in my prompt chaining technique, and that helped me make more consistent images in this project.
 2) For this project, I recieved some advice to have a baseline portion of the prompt that I can reuse prompt to prompt. I usually do one, but I was advised to do a whole description of the background and color palette in detail, which greatly improved the coherence and continuity of the story.
 
