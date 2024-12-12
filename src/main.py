@@ -10,7 +10,7 @@ client = OpenAI(api_key=OPEN_AI_KEY)
 
 response = client.images.generate(
     model="dall-e-3",
-    prompt="a stick figure on brown ground with a blue background holding the leash of his pet rock. Use minimalist art and limited palette colors.",
+    prompt="generate the milky way with black line face smiling in a cartoony minimalistic style.",
     size="1024x1024",
     quality="standard",
     n=1,
