@@ -36,8 +36,5 @@ more are always more helpful.
 
 ## Contextualizing
 
-TODO: This course asked you to understand language as technology and information for carrying,
-permuting, combining, destroying, and altering ideas. How does your work fit into your understanding
-of the course? If there's one final take-away from participating in creative diversion/adventure into
-technology, narrative, and meaning, what is it and how did it factor into this longform work?
+
 My project worked to use language to combine the generated works of two very different image generation tools, and altering the prompt slightly each retry until I had a consistent work that somewhat made sense. I would say the main take-away I got from this course, is that in a brainstorming process if you're not happy with results, rather than throwing it out and starting over, just change little things until its what you're looking for.
