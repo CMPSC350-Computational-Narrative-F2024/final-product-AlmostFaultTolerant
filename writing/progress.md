@@ -13,6 +13,7 @@ I've made some serious progress in my project, coming up with around 10 images t
 What prompting techniques did you use to get these results?
 What unexpected problems have popped up in the meantime? 
 What have you learned from doing this project
+
 ### Unstructured peer feedback
 
 
