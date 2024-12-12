@@ -31,9 +31,13 @@ TODO: Describe how the feedback from peers shaped your work. This can incorporat
 from earlier assignments or solely from this one. Cite at least two (2) examples, though
 more are always more helpful.
 
+1) I was advised during project 2 to be more formal in my prompt chaining technique, and that helped me make more consistent images in this project.
+2) For this project, I recieved some advice to have a baseline portion of the prompt that I can reuse prompt to prompt. I usually do one, but I was advised to do a whole description of the background and color palette in detail, which greatly improved the coherence and continuity of the story.
+
 ## Contextualizing
 
 TODO: This course asked you to understand language as technology and information for carrying,
 permuting, combining, destroying, and altering ideas. How does your work fit into your understanding
 of the course? If there's one final take-away from participating in creative diversion/adventure into
 technology, narrative, and meaning, what is it and how did it factor into this longform work?
+My project worked to use language to combine the generated works of two very different image generation tools, and altering the prompt slightly each retry until I had a consistent work that somewhat made sense. I would say the main take-away I got from this course, is that in a brainstorming process if you're not happy with results, rather than throwing it out and starting over, just change little things until its what you're looking for.
